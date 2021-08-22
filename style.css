@@ -1,5 +1,6 @@
 body{
     background-color:#D66853;
+    padding: 3%;
 }
 
 h1{ 
@@ -9,10 +10,12 @@ h1{
 
 #descricao1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 #descricao3,#descricao5{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
+
 }
 
 .colaboracao{
@@ -29,4 +32,33 @@ h1{
 }
 .mind{
     font-size:15px;            
+}
+
+div h1{
+    text-align: center;    
+}
+
+#img_emmanoel{
+    float: left;
+    padding: 4px;
+    background-color: green;
+}
+.div2{
+    
+    height: 317px;
+}
+#secao1{
+    position: absolute;
+    left: 390px;
+    
+}
+
+div div p{
+   position: relative;
+   top: 90px;
+   left: 90px;
+}
+
+div div {
+    position: relative;
 }
