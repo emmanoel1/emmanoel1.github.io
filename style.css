@@ -62,3 +62,9 @@ div div p{
 div div {
     position: relative;
 }
+
+.softskill li:nth-child(odd){
+
+background-color: crimson;
+
+}
